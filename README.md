@@ -15,8 +15,10 @@ I’m passionate about:
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=HuyinCP&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyinCP&layout=compact&theme=tokyonight" />
+[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quang-huy-nghiem-46ab86336/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/HuyinCP)
+[![Codeforces](https://sta.codeforces.com/s/27636/images/icons/apple-touch-icon-57x57.png)](https://codeforces.com/profile/Huy_inIT)
+
 
 <a href="https://github.com/HuyinCP/AI_projectGame">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
