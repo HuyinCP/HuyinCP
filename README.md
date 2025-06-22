@@ -19,12 +19,10 @@ I’m passionate about:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyinCP&layout=compact&theme=tokyonight" />
 
 <a href="https://github.com/HuyinCP/AI_projectGame">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=AI_projectGame&theme=tokyonight" />
+  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=AI_projectGame&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/HuyinCP/8-Puzzle-AI-solver-">
-  <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
 </a>
-
-<br/><br/><br/><br/><br/>
-
