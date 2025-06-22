@@ -26,3 +26,8 @@ I’m passionate about:
 <a href="https://github.com/HuyinCP/8-Puzzle-AI-solver-">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
 </a>
+
+<a href="https://github.com/HuyinCP/Competitive-programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=Competitive-programming&theme=tokyonight" />
+</a>
+
