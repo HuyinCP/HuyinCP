@@ -24,5 +24,5 @@ I’m passionate about:
 </a>
 
 <a href="https://github.com/HuyinCP/8-Puzzle-AI-solver-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
+  <img src="https://https://github-readme-stats.vercel.app/api/pin/?usernam=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
 </a>
