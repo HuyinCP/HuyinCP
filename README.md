@@ -15,10 +15,8 @@ I’m passionate about:
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuyinCP&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyinCP&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=HuyinCP&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyinCP&layout=compact&theme=tokyonight" />
 
 <a href="https://github.com/vietnh1009/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
