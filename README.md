@@ -12,7 +12,7 @@ I’m passionate about:
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quang-huy-nghiem-46ab86336/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/HuyinCP)
-[![Codeforces](https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg)](https://codeforces.com/profile/Huy_inIT)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Huy_inIT)
 
 ---
 
