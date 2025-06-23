@@ -19,14 +19,14 @@ I’m passionate about:
 
 <a href="https://github.com/HuyinCP/AI_projectGame">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=AI_projectGame&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=AI_projectGame&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/HuyinCP/8-Puzzle-AI-solver-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/HuyinCP/Competitive-programming">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HuyinCP&repo=Competitive-programming&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=Competitive-programming&theme=tokyonight" />
 </a>
 
