@@ -6,6 +6,7 @@ I’m passionate about:
 - 👁️‍🗨️ Computer Vision
 - 🕹️ Reinforcement Learning
 
+Currently I'm a second-year student studying at the Ho Chi Minh University of Technology and Education
 ---
 
 ## 📫 Contact me:
