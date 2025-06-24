@@ -1,12 +1,11 @@
 ### 👋 Welcome to My GitHub Page!
 
-Hi, I'm **Quang Huy** – an aspiring AI engineer.  
+Hi, I'm **Quang Huy** – an aspiring AI engineer.
+I'm a student studying at the Ho Chi Minh University of Technology and Education.
 I’m passionate about:
 - 🧠 Machine Learning
 - 👁️‍🗨️ Computer Vision
 - 🕹️ Reinforcement Learning
-
-Currently I'm a second-year student studying at the Ho Chi Minh University of Technology and Education
 ---
 
 ## 📫 Contact me:
