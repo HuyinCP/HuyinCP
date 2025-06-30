@@ -26,6 +26,10 @@ I’m passionate about: <br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/HuyinCP/Diabetes-Prediction">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=Diabetes-Prediction&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/HuyinCP/Competitive-programming">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=Competitive-programming&theme=tokyonight" />
 </a>
