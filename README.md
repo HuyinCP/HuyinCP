@@ -11,7 +11,7 @@ I’m passionate about: <br>
 ## 📫 Contact me:
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quang-huy-nghiem-46ab86336/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Huy_inIT)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat-square&logo=codeforces)](https://icpc.global/ICPCID/P8POZ7FAO6JQ)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/HuyinCP)
 ---
 
