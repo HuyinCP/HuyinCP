@@ -26,7 +26,7 @@ I’m passionate about: <br>
 </a>
 
 <a href="https://github.com/HuyinCP/Diabetes-Prediction">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=Diabetes-Prediction&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=ML_custiomize&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/HuyinCP/Competitive-programming">
