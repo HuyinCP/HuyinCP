@@ -25,7 +25,7 @@ I’m passionate about: <br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/HuyinCP/Diabetes-Prediction">
+<a href="https://github.com/HuyinCP/ML_custiomize">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=ML_custiomize&theme=tokyonight" />
 </a>
 
