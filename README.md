@@ -8,14 +8,6 @@ I’m passionate about: <br>
 - 🕹️ Reinforcement Learning
 ---
 
-## 📫 Contact me:
-
-[![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quang-huy-nghiem-46ab86336/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=flat-square&logo=codeforces)](https://icpc.global/ICPCID/P8POZ7FAO6JQ)
-[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/HuyinCP)
----
-
-
 <a href="https://github.com/HuyinCP/AI_projectGame">
   <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=AI_projectGame&theme=tokyonight" />
