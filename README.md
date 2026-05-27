@@ -3,9 +3,10 @@
 Hi, I'm **Quang Huy** – an aspiring AI engineer. <br>
 I'm a student studying at the Ho Chi Minh University of Technology and Education. <br>
 I’m passionate about: <br>
-- 🧠 Machine Learning
-- 👁️‍🗨️ Computer Vision
-- 🕹️ Reinforcement Learning
+- Machine Learning
+- Computer Vision
+- Reinforcement Learning
+- NLP & LLMs
 ---
 
 <a href="https://github.com/HuyinCP/AI_projectGame">
