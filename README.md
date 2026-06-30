@@ -18,8 +18,8 @@ I’m passionate about: <br>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=ML_custiomize&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/HuyinCP/8-Puzzle-AI-solver-">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=8-Puzzle-AI-solver-&theme=tokyonight" />
+<a href="https://github.com/HuyinCP/Ollama-Flask-Assistant">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=Ollama-Flask-Assistant&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/HuyinCP/Competitive-programming">
