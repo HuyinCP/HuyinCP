@@ -10,7 +10,6 @@ I’m passionate about: <br>
 ---
 
 <a href="https://github.com/HuyinCP/AI_projectGame">
-  <!-- Change the github-readme-stats.anuraghazra1.vercel.app to github-readme-stats.vercel.app  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=AI_projectGame&theme=tokyonight" />
 </a>
 
@@ -20,9 +19,5 @@ I’m passionate about: <br>
 
 <a href="https://github.com/HuyinCP/Ollama-Flask-Assistant">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=Ollama-Flask-Assistant&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/HuyinCP/Competitive-programming">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=HuyinCP&repo=Competitive-programming&theme=tokyonight" />
 </a>
 
